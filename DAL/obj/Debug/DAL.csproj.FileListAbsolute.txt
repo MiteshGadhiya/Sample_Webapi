@@ -1,0 +1,10 @@
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\DAL.dll.config
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\DAL.dll
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\DAL.pdb
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\EntityFramework.dll
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\EntityFramework.xml
+D:\Demo Projects\Sample_Webapi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo Projects\Sample_Webapi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Demo Projects\Sample_Webapi\DAL\obj\Debug\DAL.dll
+D:\Demo Projects\Sample_Webapi\DAL\obj\Debug\DAL.pdb

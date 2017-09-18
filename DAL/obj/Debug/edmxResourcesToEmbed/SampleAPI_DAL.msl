@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Sample_WebAPIModelStoreContainer" CdmEntityContainer="Sample_WebAPIEntities">
+    <FunctionImportMapping FunctionImportName="GetAllEmps" FunctionName="Sample_WebAPIModel.Store.GetAllEmps">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Sample_WebAPIModel.GetAllEmps_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Created" ColumnName="Created" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="InsertEmp" FunctionName="Sample_WebAPIModel.Store.InsertEmp" />
+  </EntityContainerMapping>
+</Mapping>
